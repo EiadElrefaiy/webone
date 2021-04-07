@@ -78,6 +78,16 @@
    <div><a href="https://www.instagram.com/p/CNLXeIPrl1W/"><input class="post1" value="Post 3" type="button"></a></div>
    <div><a href="https://www.instagram.com/p/CNQOQsmBHn8/"><input class="post1" value="Post 4" type="button"></a></div>
    <div><a href="https://www.instagram.com/p/CLQPu59nnEF/"><input class="post1" value="Post 5" type="button"></a></div>
+   <div><a href="https://www.facebook.com/TanTaClub/posts/10159087210637165"><input class="post1" value="Post 6" type="button"></a></div>
+   <div><a href="https://www.facebook.com/TantaToday/posts/1420061568346869"><input class="post1" value="Post 7" type="button"></a></div>
+   <div><a href="https://www.facebook.com/Tantaalaan/posts/2014188542055065"><input class="post1" value="Post 8" type="button"></a></div>
+   <div><a href="https://www.facebook.com/ElMansourasc/posts/1621099261416306" value="Post 9" type="button"></a></div>
+   <div><a href="https://www.facebook.com/MoHaMeD.7PiP/posts/2919917711466517"><input class="post1" value="Post 10" type="button"></a></div>
+  
+ 
+ 
+ 
+
 </div>
 </body>
 </html>
