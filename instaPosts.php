@@ -73,11 +73,11 @@
     </div>
     </form>    
 <div class="container">
-   <div><a href="https://www.instagram.com/p/CNcICalBal4/"><input class="post1" value="Post 1" type="button"></a></div>
-   <div><a href="https://www.instagram.com/p/CNcICalBal4/"><input class="post1" value="Post 2" type="button"></a></div>
-   <div><a href="https://www.instagram.com/p/CNcICalBal4/"><input class="post1" value="Post 3" type="button"></a></div>
-   <div><a href="https://www.instagram.com/p/CNcICalBal4/"><input class="post1" value="Post 4" type="button"></a></div>
-   <div><a href="https://www.instagram.com/p/CNcICalBal4/"><input class="post1" value="Post 5" type="button"></a></div>
+   <div><a href="https://www.instagram.com/p/CNca3x7hijD/"><input class="post1" value="Post 1" type="button"></a></div>
+   <div><a href="https://www.instagram.com/p/CNca3x7hijD/"><input class="post1" value="Post 2" type="button"></a></div>
+   <div><a href="https://www.instagram.com/p/CNca3x7hijD/"><input class="post1" value="Post 3" type="button"></a></div>
+   <div><a href="https://www.instagram.com/p/CNca3x7hijD/"><input class="post1" value="Post 4" type="button"></a></div>
+   <div><a href="https://www.instagram.com/p/CNca3x7hijD/"><input class="post1" value="Post 5" type="button"></a></div>
    <div><a href="https://www.facebook.com/efasocial/photos/a.749373931885716/1851607724995659/"><input class="post1" value="Post 6" type="button"></a></div>
    <div><a href="https://www.facebook.com/ONtv/photos/a.172288956114578/4407090879301010/"><input class="post1" value="Post 7" type="button"></a></div>
    <div><a href="https://www.facebook.com/Zamalkawy/photos/a.1854127881389314/2181319335336832/"><input class="post1" value="Post 8" type="button"></a></div>
